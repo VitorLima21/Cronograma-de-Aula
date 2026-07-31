@@ -1,132 +1,217 @@
 # 🚀 Backend Roadmap com JavaScript e Node.js
 
-Este repositório documenta minha jornada aprendendo desenvolvimento Backend utilizando JavaScript, Node.js e Express.
+Este repositório documenta minha jornada aprendendo desenvolvimento Backend utilizando JavaScript, Node.js e Express, evoluindo do básico até a construção de APIs completas.
 
-## 📚 Conteúdo
+---
 
-### 📌 Módulo 1 - JavaScript
+# 📚 Roadmap
 
-- [X] Introdução ao JavaScript
-- [X] Variáveis
-- [X] Tipos de dados
-- [X] Operadores
+## 🟨 Módulo 1 — JavaScript
+
+### Fundamentos
+
+- [x] Introdução
+- [x] Variáveis
+- [x] Tipos de Dados
+- [x] Operadores
 - [ ] Condicionais
 - [ ] Loops
 - [ ] Funções
-- [ ] Arrays
+- [ ] Escopo
 - [ ] Objetos
+- [ ] Arrays
 - [ ] Métodos de Arrays
 - [ ] Desestruturação
-- [ ] Spread Operator
-- [ ] Rest Operator
+- [ ] Spread
+- [ ] Rest
 - [ ] Template Strings
 - [ ] Arrow Functions
+
+### JavaScript Assíncrono
+
+- [ ] Callbacks
 - [ ] Promises
 - [ ] Async/Await
+- [ ] setTimeout()
+- [ ] setInterval()
 
 ---
 
-## 🟢 Módulo 2 - Node.js
+# 🟩 Módulo 2 — Introdução ao Node.js
 
 - [ ] O que é Node.js
-- [ ] Instalação
+- [ ] História
+- [ ] Node.js x Navegador
+- [ ] Como funciona
+- [ ] Executando JavaScript no Node
+
+---
+
+# 📦 Módulo 3 — npm
+
 - [ ] npm
+- [ ] npx
 - [ ] package.json
+- [ ] package-lock.json
 - [ ] Scripts
-- [ ] Módulos
-- [ ] Importação (ESModules)
+- [ ] Dependências
+- [ ] Dependências de Desenvolvimento
+- [ ] Semantic Versioning
+
+---
+
+# 📁 Módulo 4 — Módulos
+
 - [ ] CommonJS
+- [ ] ESModules
+- [ ] Import
+- [ ] Export
+- [ ] Criando módulos próprios
 
 ---
 
-## ⚡ Módulo 3 - Primeiro Projeto
+# ⚡ Módulo 5 — Programação Assíncrona
 
-- [ ] Criando o projeto
-- [ ] npm init
+- [ ] Event Loop
+- [ ] EventEmitter
+- [ ] process.nextTick()
+- [ ] setImmediate()
+- [ ] Async Programming
+
+---
+
+# 📂 Módulo 6 — Módulos Nativos
+
+- [ ] fs
+- [ ] path
+- [ ] process
+- [ ] __dirname
+- [ ] __filename
+
+---
+
+# 🖥️ Módulo 7 — Terminal
+
+- [ ] process.argv
+- [ ] process.env
+- [ ] dotenv
+- [ ] stdin
+- [ ] stdout
+- [ ] stderr
+
+---
+
+# 🌐 Módulo 8 — Express
+
 - [ ] Instalando Express
-- [ ] Primeiro servidor
-- [ ] Primeira rota
-- [ ] Nodemon
+- [ ] Criando Servidor
+- [ ] Primeira Rota
+- [ ] Middleware
+- [ ] Router
+- [ ] Controllers
 
 ---
 
-## 📁 Módulo 4 - Estrutura de Pastas
+# 📁 Módulo 9 — Arquitetura
 
 ```
 src/
 │
+├── config/
 ├── controllers/
 ├── routes/
 ├── middlewares/
 ├── services/
 ├── models/
-├── config/
-├── utils/
 ├── database/
+├── utils/
 ├── app.js
 └── server.js
 ```
 
 ---
 
-## 🛣️ Módulo 5 - Rotas
+# 🛣️ Módulo 10 — API REST
 
 - [ ] GET
 - [ ] POST
 - [ ] PUT
 - [ ] PATCH
 - [ ] DELETE
+- [ ] Status HTTP
+- [ ] JSON
 
 ---
 
-## 🛡️ Módulo 6 - Middlewares
+# 💾 Módulo 11 — Banco de Dados
 
-- [ ] O que são
-- [ ] Middleware global
-- [ ] Middleware por rota
-- [ ] Tratamento de erros
-- [ ] Autenticação
-
----
-
-## 🗂️ Módulo 7 - Controllers
-
-- [ ] Separação de responsabilidades
-- [ ] Criando Controllers
-- [ ] Organizando código
-
----
-
-## 💾 Módulo 8 - Banco de Dados
-
-- [ ] Prisma
+- [ ] SQL
 - [ ] SQLite
 - [ ] PostgreSQL
+- [ ] Prisma
 - [ ] CRUD
 
 ---
 
-## 🔐 Módulo 9 - Autenticação
+# 🔐 Módulo 12 — Autenticação
 
 - [ ] JWT
+- [ ] bcrypt
 - [ ] Login
 - [ ] Cadastro
-- [ ] Hash de senha (bcrypt)
+- [ ] Refresh Token
 
 ---
 
-## 📦 Módulo 10 - Projeto Final
+# 🧪 Módulo 13 — Testes
 
-- [ ] API REST completa
-- [ ] CRUD
-- [ ] Autenticação
-- [ ] Banco de dados
+- [ ] Jest
+- [ ] Vitest
+- [ ] Testes Unitários
+- [ ] Testes de API
+
+---
+
+# 📋 Módulo 14 — Logs
+
+- [ ] Morgan
+- [ ] Winston
+
+---
+
+# 🚀 Módulo 15 — Deploy
+
+- [ ] Variáveis de Ambiente
+- [ ] PM2
+- [ ] Railway
+- [ ] Render
+
+---
+
+# 🐞 Módulo 16 — Debug
+
+- [ ] Debugger
+- [ ] Stack Trace
+- [ ] Tratamento de Erros
+- [ ] node --inspect
+
+---
+
+# 🎯 Projeto Final
+
+- [ ] API REST
+- [ ] CRUD Completo
+- [ ] Autenticação JWT
+- [ ] Prisma
+- [ ] PostgreSQL
+- [ ] Upload de Arquivos
 - [ ] Validação
+- [ ] Testes
 - [ ] Deploy
 
 ---
 
-## 🛠 Tecnologias
+# 🛠️ Tecnologias
 
 - JavaScript
 - Node.js
@@ -136,9 +221,12 @@ src/
 - JWT
 - bcrypt
 - dotenv
+- Jest
+- Morgan
+- Winston
 
 ---
 
-## 🎯 Objetivo
+# 🎯 Objetivo
 
-Aprender Backend do básico ao avançado criando projetos reais e documentando toda a evolução.
+Aprender desenvolvimento Backend construindo aplicações reais, entendendo desde os fundamentos do JavaScript até a criação e publicação de APIs profissionais seguindo boas práticas de arquitetura, segurança e organização de código.
