@@ -6,10 +6,10 @@ Este repositório documenta minha jornada aprendendo desenvolvimento Backend uti
 
 ### 📌 Módulo 1 - JavaScript
 
-- [ ] Introdução ao JavaScript
-- [ ] Variáveis
-- [ ] Tipos de dados
-- [ ] Operadores
+- [X] Introdução ao JavaScript
+- [X] Variáveis
+- [X] Tipos de dados
+- [X] Operadores
 - [ ] Condicionais
 - [ ] Loops
 - [ ] Funções
