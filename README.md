@@ -4,9 +4,9 @@ Este repositório documenta minha jornada aprendendo desenvolvimento Backend uti
 
 ---
 
-# 📚 Roadmap
+# Roadmap
 
-## 🟨 Módulo 1 — JavaScript
+## Módulo 1 — JavaScript
 
 ### Fundamentos
 
@@ -37,7 +37,7 @@ Este repositório documenta minha jornada aprendendo desenvolvimento Backend uti
 
 ---
 
-# 🟩 Módulo 2 — Introdução ao Node.js
+# Módulo 2 — Introdução ao Node.js
 
 - [ ] O que é Node.js
 - [ ] História
@@ -47,7 +47,7 @@ Este repositório documenta minha jornada aprendendo desenvolvimento Backend uti
 
 ---
 
-# 📦 Módulo 3 — npm
+# Módulo 3 — npm
 
 - [ ] npm
 - [ ] npx
@@ -60,7 +60,7 @@ Este repositório documenta minha jornada aprendendo desenvolvimento Backend uti
 
 ---
 
-# 📁 Módulo 4 — Módulos
+# Módulo 4 — Módulos
 
 - [ ] CommonJS
 - [ ] ESModules
@@ -70,7 +70,7 @@ Este repositório documenta minha jornada aprendendo desenvolvimento Backend uti
 
 ---
 
-# ⚡ Módulo 5 — Programação Assíncrona
+# Módulo 5 — Programação Assíncrona
 
 - [ ] Event Loop
 - [ ] EventEmitter
@@ -80,7 +80,7 @@ Este repositório documenta minha jornada aprendendo desenvolvimento Backend uti
 
 ---
 
-# 📂 Módulo 6 — Módulos Nativos
+# Módulo 6 — Módulos Nativos
 
 - [ ] fs
 - [ ] path
@@ -90,7 +90,7 @@ Este repositório documenta minha jornada aprendendo desenvolvimento Backend uti
 
 ---
 
-# 🖥️ Módulo 7 — Terminal
+# Módulo 7 — Terminal
 
 - [ ] process.argv
 - [ ] process.env
@@ -101,7 +101,7 @@ Este repositório documenta minha jornada aprendendo desenvolvimento Backend uti
 
 ---
 
-# 🌐 Módulo 8 — Express
+# Módulo 8 — Express
 
 - [ ] Instalando Express
 - [ ] Criando Servidor
@@ -112,7 +112,7 @@ Este repositório documenta minha jornada aprendendo desenvolvimento Backend uti
 
 ---
 
-# 📁 Módulo 9 — Arquitetura
+# Módulo 9 — Arquitetura
 
 ```
 src/
@@ -131,7 +131,7 @@ src/
 
 ---
 
-# 🛣️ Módulo 10 — API REST
+# Módulo 10 — API REST
 
 - [ ] GET
 - [ ] POST
@@ -143,7 +143,7 @@ src/
 
 ---
 
-# 💾 Módulo 11 — Banco de Dados
+# Módulo 11 — Banco de Dados
 
 - [ ] SQL
 - [ ] SQLite
@@ -153,7 +153,7 @@ src/
 
 ---
 
-# 🔐 Módulo 12 — Autenticação
+# Módulo 12 — Autenticação
 
 - [ ] JWT
 - [ ] bcrypt
@@ -163,7 +163,7 @@ src/
 
 ---
 
-# 🧪 Módulo 13 — Testes
+# Módulo 13 — Testes
 
 - [ ] Jest
 - [ ] Vitest
@@ -172,14 +172,14 @@ src/
 
 ---
 
-# 📋 Módulo 14 — Logs
+# Módulo 14 — Logs
 
 - [ ] Morgan
 - [ ] Winston
 
 ---
 
-# 🚀 Módulo 15 — Deploy
+# Módulo 15 — Deploy
 
 - [ ] Variáveis de Ambiente
 - [ ] PM2
@@ -188,7 +188,7 @@ src/
 
 ---
 
-# 🐞 Módulo 16 — Debug
+# Módulo 16 — Debug
 
 - [ ] Debugger
 - [ ] Stack Trace
@@ -197,7 +197,7 @@ src/
 
 ---
 
-# 🎯 Projeto Final
+# Projeto Final
 
 - [ ] API REST
 - [ ] CRUD Completo
@@ -211,7 +211,7 @@ src/
 
 ---
 
-# 🛠️ Tecnologias
+# Tecnologias
 
 - JavaScript
 - Node.js
@@ -227,6 +227,6 @@ src/
 
 ---
 
-# 🎯 Objetivo
+# Objetivo
 
 Aprender desenvolvimento Backend construindo aplicações reais, entendendo desde os fundamentos do JavaScript até a criação e publicação de APIs profissionais seguindo boas práticas de arquitetura, segurança e organização de código.
