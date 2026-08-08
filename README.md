@@ -1,4 +1,4 @@
-# 🚀 Backend Roadmap com JavaScript e Node.js
+# Backend Roadmap com JavaScript e Node.js
 
 Este repositório documenta minha jornada aprendendo desenvolvimento Backend utilizando JavaScript, Node.js e Express, evoluindo do básico até a construção de APIs completas.
 
